@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Se puede agregar buscar tarea
+         Otra opcion es cambiar por crear carpeta
+     -->
+    <item
+            android:id="@+id/btnCrearTarea"
+            android:title="Crear tarea"
+            app:showAsAction="ifRoom" />
+
+    <!-- esto tiene que estar con un vector (imagen)-->
+    <item
+            android:id="@+id/btnSettings"
+            android:title="Configuracion"
+            app:showAsAction="ifRoom" />
+
+</menu>
