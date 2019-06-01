@@ -41,7 +41,8 @@
                 android:layout_marginTop="20dp"
                 android:text="Crear Lista"
                 android:textSize="15sp"
-                android:id="@+id/tvCrearLista"/>
+                android:id="@+id/tvCrearLista"
+        />
 
     </LinearLayout>
 
